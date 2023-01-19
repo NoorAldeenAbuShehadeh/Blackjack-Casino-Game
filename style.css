@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-image: url('./blackjack-casino-game.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 260%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-size: 36px;
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+}
+button{
+    font-size: 18px;
+    color: #016f32;
+    width: 150px;
+    height: 30px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
